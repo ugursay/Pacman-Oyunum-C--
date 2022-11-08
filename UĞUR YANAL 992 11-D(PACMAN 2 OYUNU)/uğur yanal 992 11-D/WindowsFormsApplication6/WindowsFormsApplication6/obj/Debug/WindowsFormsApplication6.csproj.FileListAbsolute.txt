@@ -1,0 +1,104 @@
+c:\users\ugur\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+c:\users\ugur\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\ugur\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\ugur\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+c:\users\ugur\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+c:\users\ugur\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\ugur\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\ugur\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+c:\users\ugur\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\BETÜLPC\Desktop\proje (ntp)\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\BETÜLPC\Desktop\proje (ntp)\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\BETÜLPC\Desktop\proje (ntp)\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\BETÜLPC\Desktop\proje (ntp)\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\BETÜLPC\Desktop\proje (ntp)\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\BETÜLPC\Desktop\proje (ntp)\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\BETÜLPC\Desktop\proje (ntp)\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\BETÜLPC\Desktop\proje (ntp)\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\BETÜLPC\Desktop\proje (ntp)\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\BETÜLPC\Desktop\proje (ntp)\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\BETÜLPC\Desktop\proje (ntp)\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form3.resources
+C:\Users\BETÜLPC\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\BETÜLPC\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\BETÜLPC\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\BETÜLPC\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\BETÜLPC\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\BETÜLPC\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\BETÜLPC\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\BETÜLPC\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\BETÜLPC\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form3.resources
+C:\Users\BETÜLPC\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form4.resources
+C:\Users\BETÜLPC\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\BETÜLPC\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\BETÜLPC\Desktop\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form5.resources
+C:\Users\BETÜLPC\Desktop\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\BETÜLPC\Desktop\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\BETÜLPC\Desktop\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\BETÜLPC\Desktop\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\BETÜLPC\Desktop\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\BETÜLPC\Desktop\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\BETÜLPC\Desktop\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\BETÜLPC\Desktop\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\BETÜLPC\Desktop\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form3.resources
+C:\Users\BETÜLPC\Desktop\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form4.resources
+C:\Users\BETÜLPC\Desktop\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form5.resources
+C:\Users\BETÜLPC\Desktop\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\BETÜLPC\Desktop\Yeni klasör\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\BETÜLPC\Desktop\2\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\BETÜLPC\Desktop\2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\BETÜLPC\Desktop\2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\BETÜLPC\Desktop\2\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\BETÜLPC\Desktop\2\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\BETÜLPC\Desktop\2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\BETÜLPC\Desktop\2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\BETÜLPC\Desktop\2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\BETÜLPC\Desktop\2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form3.resources
+C:\Users\BETÜLPC\Desktop\2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form4.resources
+C:\Users\BETÜLPC\Desktop\2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form5.resources
+C:\Users\BETÜLPC\Desktop\2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\BETÜLPC\Desktop\2\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\BETÜLPC\Desktop\kopya\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\BETÜLPC\Desktop\kopya\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\BETÜLPC\Desktop\kopya\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\BETÜLPC\Desktop\kopya\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\BETÜLPC\Desktop\kopya\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\BETÜLPC\Desktop\kopya\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\BETÜLPC\Desktop\kopya\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\BETÜLPC\Desktop\kopya\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\BETÜLPC\Desktop\kopya\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form3.resources
+C:\Users\BETÜLPC\Desktop\kopya\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form4.resources
+C:\Users\BETÜLPC\Desktop\kopya\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form5.resources
+C:\Users\BETÜLPC\Desktop\kopya\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\BETÜLPC\Desktop\kopya\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\BETÜLPC\Desktop\Yeni klasör (2)\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\BETÜLPC\Desktop\Yeni klasör (2)\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\BETÜLPC\Desktop\Yeni klasör (2)\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\BETÜLPC\Desktop\Yeni klasör (2)\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\BETÜLPC\Desktop\Yeni klasör (2)\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\BETÜLPC\Desktop\Yeni klasör (2)\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\BETÜLPC\Desktop\Yeni klasör (2)\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\BETÜLPC\Desktop\Yeni klasör (2)\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\BETÜLPC\Desktop\Yeni klasör (2)\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form3.resources
+C:\Users\BETÜLPC\Desktop\Yeni klasör (2)\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form4.resources
+C:\Users\BETÜLPC\Desktop\Yeni klasör (2)\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form5.resources
+C:\Users\BETÜLPC\Desktop\Yeni klasör (2)\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\BETÜLPC\Desktop\Yeni klasör (2)\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\BETÜLPC\Desktop\yeni\Yeni klasör (2) - Kopya\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\BETÜLPC\Desktop\yeni\Yeni klasör (2) - Kopya\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\BETÜLPC\Desktop\yeni\Yeni klasör (2) - Kopya\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\BETÜLPC\Desktop\yeni\Yeni klasör (2) - Kopya\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\BETÜLPC\Desktop\yeni\Yeni klasör (2) - Kopya\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\BETÜLPC\Desktop\yeni\Yeni klasör (2) - Kopya\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\BETÜLPC\Desktop\yeni\Yeni klasör (2) - Kopya\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\BETÜLPC\Desktop\yeni\Yeni klasör (2) - Kopya\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\BETÜLPC\Desktop\yeni\Yeni klasör (2) - Kopya\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form3.resources
+C:\Users\BETÜLPC\Desktop\yeni\Yeni klasör (2) - Kopya\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form4.resources
+C:\Users\BETÜLPC\Desktop\yeni\Yeni klasör (2) - Kopya\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form5.resources
+C:\Users\BETÜLPC\Desktop\yeni\Yeni klasör (2) - Kopya\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\BETÜLPC\Desktop\yeni\Yeni klasör (2) - Kopya\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+H:\uğur\yeni\Yeni klasör (2) - Kopya\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+H:\uğur\yeni\Yeni klasör (2) - Kopya\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+H:\uğur\yeni\Yeni klasör (2) - Kopya\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\uğur\yeni\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\uğur\yeni\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\uğur\yeni\UĞUR YANAL 992 11-D\uğur yanal 992 11-D\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
